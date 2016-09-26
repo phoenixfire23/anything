@@ -1,0 +1,3 @@
+[writest]"hello"
+{writest}'gyro'at12,95,97
+[writewe]'gyro'at38,74,36
